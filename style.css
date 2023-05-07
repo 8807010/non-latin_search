@@ -9,3 +9,9 @@ mark {
 .out-1 {
   font-family: monospace;
 }
+
+mark {
+  color: red;
+  font-weight: bold;
+  border-bottom: 4px solid red;
+}
